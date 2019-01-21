@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="geTest:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/geTest_jar</output-path>
-    <root id="archive" name="geTest.jar">
-      <element id="module-output" name="geTest" />
-    </root>
-  </artifact>
-</component>
